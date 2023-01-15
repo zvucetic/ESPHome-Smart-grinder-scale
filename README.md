@@ -1,4 +1,4 @@
-# stop_on_dose_grinder
+# Stop grinder on dose
 Eureka Mignon (or any other grinder ) stop on dose 
 
 It doesn't need any modification on the grinder, only needs timer mode. 
